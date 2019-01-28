@@ -4,4 +4,5 @@ Project for the course Introduction to Computational Neuroscience at University 
 
 Exploring a [dataset](https://www.kaggle.com/kmader/circadian-rhythm-in-the-brain/home) on circadian rhythms from Kaggle.
 
-Done by @maxifischer, @kathafog, @peikovakate, and @lisskor.
+Done by [@maxifischer](https://github.com/maxifischer), [@kathafog](https://github.com/kathafog), 
+[@peikovakate](https://github.com/peikovakate), and [@lisskor](https://github.com/lisskor).
